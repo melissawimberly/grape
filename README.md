@@ -1,3 +1,2 @@
-# grape
-== grape with activerecord
+# grape with active record
 
